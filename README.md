@@ -8,7 +8,6 @@ Uma viagem em busca de conhecimento e tecnologia 🚀
 
  <div>
   <a href="https://github.com/mathiassammer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathiassammer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathiassammer&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
@@ -21,7 +20,7 @@ Uma viagem em busca de conhecimento e tecnologia 🚀
    <img align="center" alt="dev-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-- 🔭 Atualmente estou estudando na Escola [Digital House Brasil](https://www.digitalhouse.com/br/)
+- 🔭 Atualmente estou estudando na Escola [Digital House Brasil](https://www.digitalhouse.com/br/?gclid=Cj0KCQjw--GFBhDeARIsACH_kdZVwBv6d6mLsb8UUlYmbtNNxfoXTsdWrFWEEFaldSkyOEiARIHG-ZwaAvbvEALw_wcB)
 
 - 📚 Cursando **Desenvolvimento Full Stack Node**
 
