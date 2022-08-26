@@ -3,8 +3,6 @@ Uma viagem em busca de conhecimento e tecnologia 🚀
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mathias%20Sammer-0599B0?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mathias-sammer/)](https://www.linkedin.com/in/mathias-sammer/) [![Gmail Badge](https://img.shields.io/badge/-mathias.sammer.946@gmail.com-0599B0?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mathias.sammer.946@gmail.com)](mailto:mathias.sammer.946@gmail.com)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mathiassammer" alt="mathiassammer"/> </p>
-
  <div>
   <a href="https://github.com/mathiassammer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathiassammer&layout=compact&langs_count=16&theme=dracula"/>
